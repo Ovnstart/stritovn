@@ -1,0 +1,2 @@
+# stritovn
+Проект сервера stritovn
